@@ -29,6 +29,7 @@ Il materiale è stato integrato con il libro:
 **ISBN:** 978-88-470-5643-5
 
 Gli appunti presenti in questa repository sono tratti dal corso di **Matematica Numerica di Ingegneria Matematica** (10cfu) del **Politecnico di Milano**, tenuto dal prof. Marco Verani nell'AA 2024/2025.
+
 ---
 
 ## Contributi

@@ -28,6 +28,7 @@ Il materiale è stato integrato con il libro:
 4ª edizione, 2014 – ca. 520 pagine, Brossura  
 **ISBN:** 978-88-470-5643-5
 
+Gli appunti presenti in questa repository sono tratti dal corso di **Matematica Numerica di Ingegneria Matematica** (10cfu) del **Politecnico di Milano**, tenuto dal prof. Marco Verani nell'AA 2024/2025.
 ---
 
 ## Contributi
